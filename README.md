@@ -1,2 +1,4 @@
-# glide
-Glide: exception and error monitoring for Flutter apps.
+# Glide
+Exception and error monitoring for Flutter apps.
+
+https://glidewithflutter.com
